@@ -1,0 +1,43 @@
+img{
+  height: 300px;
+  width: 400px;
+  box-shadow:3px 3px black;
+  
+}
+p,figcaption{
+  font-size: large;
+}
+body{
+  background-color: rgb(230, 235, 235);
+}
+form,div,p,h1{
+  text-align: center;
+}
+form,label{
+  font-size: 20px;
+  padding: 1cm;
+  color: rgb(18, 56, 142);
+}
+legend{
+  background-color: aliceblue;
+  text-align: center;
+}
+input{
+  font-size: large;
+  height: 30px;
+}
+#lname,#fname,#gmail{
+  opacity: .4;
+}
+marquee{
+  font-size: 1cm;
+  scroll-behavior: smooth;
+  scrollbar-color: rgb(240, 124, 240);
+  color:rgb(129, 60, 194);
+  text-shadow: 2px 2px 2px white;
+}
+figcaption{
+  color:white;
+  font-size: 22px;
+  text-shadow: 2px 2px 4px black;
+}
